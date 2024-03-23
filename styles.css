@@ -7,7 +7,7 @@ body{
 
 header h1{
     font: size 70px;
-    color: #2abbbb;
+    color: #0aeeee;
 }
 
 header nav a:hover{
@@ -59,7 +59,7 @@ main img{
     left: 50%; 
     width: fit-content;
     transform: translate(-50%, -50%); 
-    background-color: #000000e7; 
+    background-color: #000000af; 
     color: #fff; 
     padding: 10px 10px; 
     font-size: 22px; 
